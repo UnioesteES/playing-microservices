@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="jdk" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/api" />
+            <option value="$PROJECT_DIR$/api/project" />
+            <option value="$PROJECT_DIR$/common" />
+            <option value="$PROJECT_DIR$/common/project" />
+            <option value="$PROJECT_DIR$/persistence" />
+            <option value="$PROJECT_DIR$/persistence/project" />
+            <option value="$PROJECT_DIR$/project" />
+            <option value="$PROJECT_DIR$/service-a" />
+            <option value="$PROJECT_DIR$/service-a/project" />
+            <option value="$PROJECT_DIR$/service-b" />
+            <option value="$PROJECT_DIR$/service-b/project" />
+            <option value="$PROJECT_DIR$/service-c" />
+            <option value="$PROJECT_DIR$/service-c/project" />
+            <option value="$PROJECT_DIR$/service-d" />
+            <option value="$PROJECT_DIR$/service-d/project" />
+            <option value="$PROJECT_DIR$/web" />
+            <option value="$PROJECT_DIR$/web/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.8" />
+        <option name="useAutoImport" value="true" />
+        <option name="useOurOwnAutoImport" value="true" />
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/api" />
+            <option value="$PROJECT_DIR$/api/project" />
+            <option value="$PROJECT_DIR$/common" />
+            <option value="$PROJECT_DIR$/common/project" />
+            <option value="$PROJECT_DIR$/persistence" />
+            <option value="$PROJECT_DIR$/persistence/project" />
+            <option value="$PROJECT_DIR$/project" />
+            <option value="$PROJECT_DIR$/service-a" />
+            <option value="$PROJECT_DIR$/service-a/project" />
+            <option value="$PROJECT_DIR$/service-b" />
+            <option value="$PROJECT_DIR$/service-b/project" />
+            <option value="$PROJECT_DIR$/service-c" />
+            <option value="$PROJECT_DIR$/service-c/project" />
+            <option value="$PROJECT_DIR$/service-d" />
+            <option value="$PROJECT_DIR$/service-d/project" />
+            <option value="$PROJECT_DIR$/web" />
+            <option value="$PROJECT_DIR$/web/project" />
+          </set>
+        </option>
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>
